@@ -1,3 +1,5 @@
 # Blog-Post-2
 
-In progress - June 6, 2017
+In progress
+
+Future plans to include media queries
